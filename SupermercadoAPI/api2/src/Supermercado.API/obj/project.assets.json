@@ -12075,11 +12075,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Drih\\Desktop\\src\\Supermercado.API\\Supermercado.API.csproj",
+      "projectUniqueName": "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\Supermercado.API.csproj",
       "projectName": "Supermercado.API",
-      "projectPath": "C:\\Users\\Drih\\Desktop\\src\\Supermercado.API\\Supermercado.API.csproj",
+      "projectPath": "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\Supermercado.API.csproj",
       "packagesPath": "C:\\Users\\Drih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Drih\\Desktop\\src\\Supermercado.API\\obj\\",
+      "outputPath": "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
