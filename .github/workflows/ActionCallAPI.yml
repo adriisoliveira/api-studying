@@ -26,7 +26,7 @@ jobs:
       run: |
         cd src/Supermercado.API/
         dotnet build
-
+        
     - name: dotnet RUN
       run: |
         cd src/Supermercado.API/
