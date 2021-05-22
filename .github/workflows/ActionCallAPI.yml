@@ -11,11 +11,6 @@ jobs:
     
     steps:
     - uses: actions/checkout@master
-    
-    - name: Set Up .NetCore
-      uses: actions/setup-dotnet@v1
-      with:
-        dotnet-version: '3.1.408'
         
     - name: Dotnet Restore
       run: |
