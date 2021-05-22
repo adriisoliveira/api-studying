@@ -11,7 +11,10 @@ jobs:
     
     steps:
     - uses: actions/checkout@master
-        
+    
+    - name: Set Up .NetCore
+      uses: actions/setup-dotnet@v1
+      
     - name: Dotnet Restore
       run: |
         cd src/Supermercado.API/
