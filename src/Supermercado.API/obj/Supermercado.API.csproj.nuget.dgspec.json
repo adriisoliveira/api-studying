@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\Supermercado.API.csproj": {}
+    "H:\\Repositório\\api-studying\\src\\Supermercado.API\\Supermercado.API.csproj": {}
   },
   "projects": {
-    "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\Supermercado.API.csproj": {
+    "H:\\Repositório\\api-studying\\src\\Supermercado.API\\Supermercado.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\Supermercado.API.csproj",
+        "projectUniqueName": "H:\\Repositório\\api-studying\\src\\Supermercado.API\\Supermercado.API.csproj",
         "projectName": "Supermercado.API",
-        "projectPath": "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\Supermercado.API.csproj",
+        "projectPath": "H:\\Repositório\\api-studying\\src\\Supermercado.API\\Supermercado.API.csproj",
         "packagesPath": "C:\\Users\\Drih\\.nuget\\packages\\",
-        "outputPath": "H:\\Repositório\\api-studying\\SupermercadoAPI\\api2\\src\\Supermercado.API\\obj\\",
+        "outputPath": "H:\\Repositório\\api-studying\\src\\Supermercado.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -25,14 +25,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -43,23 +43,23 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[3.1.x, )",
               "autoReferenced": true
             },
             "Microsoft.AspNetCore.Razor.Design": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "(, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[3.1.x, )",
               "autoReferenced": true
             }
           },
