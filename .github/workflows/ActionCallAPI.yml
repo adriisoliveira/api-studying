@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    runs-on: dotnet-version[3.1]
+    runs-on: dotnet-latest
     steps:
     - name: Run API
       run: |
