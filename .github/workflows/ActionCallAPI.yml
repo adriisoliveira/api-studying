@@ -18,7 +18,11 @@ jobs:
         dotnet-version: '3.1.102'
     
     - name: Build with dotnet
-      run: dotnet build
+      run: |
+        cd api-studying/SupermercadoAPI/src/Supermercado.API/
+        dotnet build
 
     - name: dotnet publish
-      run: dotnet run
+      run: |
+        cd api-studying/SupermercadoAPI/src/Supermercado.API/
+        dotnet run
