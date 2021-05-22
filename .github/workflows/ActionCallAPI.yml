@@ -19,7 +19,7 @@ jobs:
     
     - name: Build with dotnet
       run: |
-        cd api-studying/SupermercadoAPI/src/Supermercado.API/
+        cd SupermercadoAPI/src/Supermercado.API/
         dotnet build
 
     - name: dotnet publish
