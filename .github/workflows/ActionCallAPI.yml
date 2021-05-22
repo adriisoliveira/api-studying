@@ -13,5 +13,6 @@ jobs:
     steps:
     - name: Run API
       run: |
+        cd api-studying/SupermercadoAPI/src/Supermercado.API/
         dotnet run
       
